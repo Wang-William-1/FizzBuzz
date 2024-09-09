@@ -12,6 +12,6 @@ public class Multiples {
                 count++;
             }
         }
-        System.out.println(count);
+        System.out.println(count + " non-negative multiples of 3 or 5 below 1000");
     }
 }
